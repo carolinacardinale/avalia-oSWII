@@ -78,12 +78,3 @@ os usuários autenticados; não há separação por proprietário.
 Credenciais e chave local são apenas para demonstração. Não publicar esta base
 como serviço de produção. O modo debug é destinado à execução local.
 
-## Entrega
-Preencha abaixo e envie o projeto com uma captura do resultado do Pytest.
-Não inclua .venv, venv ou pastas de cache no ZIP.
-
-- Integrantes:
-- Turma:
-- Funcionalidades concluídas:
-- Como executar:
-- Dificuldades encontradas e soluções:
